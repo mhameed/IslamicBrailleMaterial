@@ -1,0 +1,11 @@
+Once upon a time in a galaxy far far away.... The quick brown fox jumped over the lazy dog and everybody was happy hoorah! 
+
+"So" said Donald "wasn't that a great way of ending the day?"
+
+A+B=(c-1)*(10^2)-3
+
+/home/occ/test
+
+for(int i=0;i<10;i++){
+printf("Hello World (%i)\n",i);
+}

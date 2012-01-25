@@ -1,0 +1,6 @@
+translator from ASCII to index braillie commands. 
+
+takes a translation table and an input file and outputs a braille file
+containing code which can be sent to a parallel port index braille printer. 
+
+http://www.cs.bath.ac.uk/~occ/hacks/everestbraille/
